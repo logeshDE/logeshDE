@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Logeshwara 👋
 
-<!--
-**logeshDE/logeshDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer — building data pipelines and full-stack apps, learning in public.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 Currently working on data engineering pipelines (Kafka, PySpark, AWS) and full-stack web apps
+- 🌱 Learning in public — sharing projects as I build them
+- 💼 Portfolio: [comfy-axolotl-b53c93.netlify.app](https://comfy-axolotl-b53c93.netlify.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Languages:** Python, SQL, JavaScript (ES6+)
+**Frameworks:** Django, Django REST Framework, Flask, React.js, Node.js, Express.js
+**Frontend:** HTML5, CSS3, Bootstrap 5, AJAX, Responsive Design
+**Databases:** PostgreSQL, MySQL, SQLite, MongoDB, Snowflake (basic)
+**Tools & Cloud:** Git/GitHub, Docker, Linux, VS Code, AWS (EC2, S3, IAM)
+
+## 📌 Featured Projects
+- [ShopX](https://github.com/logeshDE/shopx) — Django-based e-commerce app with product management, reviews, and automated tests
+- [Real-Time Pipeline](https://github.com/logeshDE/real-time-pipeline) — Kafka → Spark → MinIO → Airflow streaming pipeline
+- [Temperature Monitor](https://github.com/logeshDE/temperature-monitor-kafka-pyspark) — Kafka + PySpark Structured Streaming for real-time alerts
+- [AWS S3-Glue-Athena Pipeline](https://github.com/logeshDE/aws-s3-glue-athena-data-pipeline) — Serverless data pipeline on AWS
+- [E-commerce Data Engineering Pipeline](https://github.com/logeshDE/ecommerce-data-engineering-pipeline)
+
+## 📫 Reach Me
+- Portfolio: https://comfy-axolotl-b53c93.netlify.app/
