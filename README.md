@@ -22,4 +22,4 @@ Full Stack Developer — building data pipelines and full-stack apps, learning i
 - [E-commerce Data Engineering Pipeline](https://github.com/logeshDE/ecommerce-data-engineering-pipeline)
 
 ## 📫 Reach Me
-- Portfolio: https://comfy-axolotl-b53c93.netlify.app/
+- Portfolio: https://gentle-pothos-c444a6.netlify.app/
