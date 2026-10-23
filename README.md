@@ -5,7 +5,7 @@ Full Stack Developer — building data pipelines and full-stack apps, learning i
 ## 🚀 About Me
 - 🔭 Currently working on data engineering pipelines (Kafka, PySpark, AWS) and full-stack web apps
 - 🌱 Learning in public — sharing projects as I build them
-- 💼 Portfolio: [comfy-axolotl-b53c93.netlify.app](https://comfy-axolotl-b53c93.netlify.app/)
+- 💼 Portfolio: [gentle-pothos-c444a6.netlify.app/](https://gentle-pothos-c444a6.netlify.app/)
 
 ## 🛠️ Tech Stack
 **Languages:** Python, SQL, JavaScript (ES6+)
